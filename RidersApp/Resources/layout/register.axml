@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:id="@+id/rootView"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent">
+
+	<LinearLayout
+		android:orientation="vertical"
+		android:layout_height="fill_parent"
+		android:layout_width="match_parent"> 
+
+		<RelativeLayout
+			android:layout_width="fill_parent"
+			android:layout_height="wrap_content"> 
+			<LinearLayout
+				android:id="@+id/signupTextPanel"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content" 
+				android:background="@color/uberPrimary"
+ 				android:padding="5dp"
+				> 
+				<TextView
+					android:layout_height="wrap_content"
+					android:layout_width="match_parent"
+					android:gravity="center"
+					android:textSize="40sp"
+					android:text="Quick SignUp"
+					android:layout_alignParentTop="true"
+					android:textColor="@color/uberwhite"
+				/>
+			</LinearLayout> 
+			
+			<LinearLayout
+				android:id="@+id/buttonPanel"
+				android:layout_width="match_parent"
+ 				android:layout_height="wrap_content"
+				android:layout_below="@+id/signupTextPanel">  
+				<org.apmem.tools.layouts.FlowLayout
+					xmlns:f="http://schemas.android.com/apk/res/org.apmem.android"
+					xmlns:android="http://schemas.android.com/apk/res/android"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginRight="20dip"
+   					android:orientation="horizontal"
+ 					android:gravity="fill"
+					android:id="@+id/flowPanel">
+					
+					<Button
+						android:id="@+id/FbButton"
+						android:background="@drawable/facebook"
+						android:layout_width="60dp"
+						android:layout_height="60dp"
+						android:layout_marginLeft="30dp"
+						android:layout_marginTop="30dp"
+						android:layout_marginRight="30dp"/> 
+					<Button
+						android:id="@+id/TwitterButton"
+						android:background="@drawable/twitter"
+						android:layout_width="60dp"
+						android:layout_height="60dp"
+						android:layout_marginLeft="30dp"
+						android:layout_marginTop="30dp"
+						android:layout_marginRight="30dp"/>
+					<Button
+						android:id="@+id/LinkedInButton"
+						android:background="@drawable/linkedin"
+						android:layout_width="60dp"
+						android:layout_height="60dp"
+						android:layout_marginLeft="30dp"
+						android:layout_marginTop="30dp"
+						android:layout_marginRight="30dp"/>  
+					<Button
+						android:id="@+id/GmailButton"
+						android:background="@drawable/gmail"
+						android:layout_width="60dp"
+						android:layout_height="60dp"
+						android:layout_marginLeft="30dp"
+						android:layout_marginTop="30dp"
+						android:layout_marginRight="30dp"/> 
+					<Button
+						android:id="@+id/yahooButton"
+						android:background="@drawable/yahoo"
+						android:layout_width="60dp"
+						android:layout_height="60dp"
+						android:layout_marginLeft="30dp"
+						android:layout_marginTop="30dp"
+						android:layout_marginRight="30dp"/> 
+					 <Button
+						android:id="@+id/MicrosoftButton"
+						android:background="@drawable/microsoft"
+						android:layout_width="60dp"
+						android:layout_height="60dp"
+						android:layout_marginLeft="30dp"
+						android:layout_marginTop="30dp"
+						android:layout_marginRight="30dp"/>   
+				</org.apmem.tools.layouts.FlowLayout>
+			</LinearLayout>  
+			
+			<!--LinearLayout
+				android:id="@+id/alternateButton"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content" 
+ 				android:layout_below="@+id/buttonPanel"						
+				android:layout_centerInParent="true"
+				android:gravity="center" 
+				>
+  
+				<Button
+				android:id="@+id/signupAlternate"
+				android:layout_height="45dp"
+				android:layout_width="300dp"
+				android:text="Alternative"
+				android:layout_centerInParent="true" 
+				android:textColor="@color/uberwhite"
+				android:background="@drawable/uberroundbutton"/>
+				 
+			</LinearLayout--> 
+
+			<LinearLayout
+				android:id="@+id/signupForm"
+				android:orientation="vertical"
+				android:layout_height="wrap_content" 
+				android:layout_width="match_parent"
+				android:layout_below="@+id/buttonPanel">
+
+		<android.support.design.widget.TextInputLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:id="@+id/fullNameText">
+				<EditText
+				android:layout_height="wrap_content"
+					android:layout_width="match_parent"
+					android:hint="Full name"
+					android:inputType="textPersonName"
+				/>
+			</android.support.design.widget.TextInputLayout>
+
+		<android.support.design.widget.TextInputLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/phoneText"
+			>
+			<EditText
+			android:layout_height="wrap_content"
+				android:layout_width="match_parent"
+				android:hint="Phone"
+				android:inputType="phone"
+			/>
+			</android.support.design.widget.TextInputLayout>
+
+		<android.support.design.widget.TextInputLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/emailText"
+			>
+			<EditText
+			android:layout_height="wrap_content"
+				android:layout_width="match_parent"
+				android:hint="Email"
+				android:inputType="textEmailAddress"
+				
+			/>
+			</android.support.design.widget.TextInputLayout> 
+
+		<android.support.design.widget.TextInputLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:id="@+id/passwordText"
+			>
+			<EditText
+			android:layout_height="wrap_content"
+				android:layout_width="match_parent"
+				android:hint="Password"
+				android:inputType="textPassword"
+				
+			/>
+			</android.support.design.widget.TextInputLayout>
+
+		<RelativeLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent">
+
+			<Button
+				android:id="@+id/registerButton"
+				android:layout_height="45dp"
+				android:layout_width="300dp"
+				android:text="register"
+				android:textColor="@color/uberwhite"
+				android:background="@drawable/uberroundbutton"
+				android:layout_centerInParent="true"
+			/>
+
+			<TextView
+					android:id="@+id/clickToLogin"
+				android:layout_height="wrap_content"
+				android:layout_width="match_parent"
+				android:gravity="center"
+				android:layout_marginTop="40dp"
+				android:layout_below="@+id/registerButton"
+				android:text="@string/click_login"
+			/> 
+			</RelativeLayout> 
+		
+			</LinearLayout>
+		</RelativeLayout> 
+	</LinearLayout> 
+	
+</android.support.design.widget.CoordinatorLayout>

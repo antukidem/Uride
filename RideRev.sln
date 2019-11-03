@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RidersApp", "RidersApp\RidersApp.csproj", "{23C35770-8B00-4666-A898-C51256B4E4E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RideRefTests", "RideRefTests\RideRefTests.csproj", "{BFAF6561-12AD-4345-8A9C-A44C895C5815}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{23C35770-8B00-4666-A898-C51256B4E4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23C35770-8B00-4666-A898-C51256B4E4E8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{23C35770-8B00-4666-A898-C51256B4E4E8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BFAF6561-12AD-4345-8A9C-A44C895C5815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFAF6561-12AD-4345-8A9C-A44C895C5815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFAF6561-12AD-4345-8A9C-A44C895C5815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFAF6561-12AD-4345-8A9C-A44C895C5815}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

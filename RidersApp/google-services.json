@@ -1,0 +1,48 @@
+  {
+  "project_info": {
+    "project_number": "309984692906",
+    "firebase_url": "https://ultra-ride-7646e.firebaseio.com",
+    "project_id": "ultra-ride-7646e",
+    "storage_bucket": "ultra-ride-7646e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309984692906:android:c563c07a1986ab74",
+        "android_client_info": {
+          "package_name": "com.ultrasolutions.disruption.ultraride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309984692906-6450dhrg0gs014cjtle50h7hnn5bbakb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ultrasolutions.disruption.ultraride",
+            "certificate_hash": "541d1c4f21b083718b3ef320820684aa90731592"
+          }
+        },
+        {
+          "client_id": "309984692906-jgb9qeg83k4pl9ugq8vecoro2crbba4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS7pIUcL5Kswcels6SMGxYdSxg9v6FS-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309984692906-jgb9qeg83k4pl9ugq8vecoro2crbba4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

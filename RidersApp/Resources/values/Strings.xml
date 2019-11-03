@@ -1,4 +1,22 @@
 <resources>
-    <string name="app_name">RidersApp</string>
-    <string name="action_settings">Settings</string>
+  <string name="app_name">Smart Trips</string>
+  <string name="action_settings">Settings</string>
+  <string name="click_here">Not Registered, Click to Register</string>
+  <string name="click_login">Registered already, Click to Login</string>
+  <string name="mapkey">AIzaSyCEPeqDQpYwHi1_vcy9uSRiisXOmJG20wc</string>
+  <string name="APIkey">AIzaSyCEPeqDQpYwHi1_vcy9uSRiisXOmJG20wc</string>
+  <string name="PlacesAPIKey">AIzaSyCEPeqDQpYwHi1_vcy9uSRiisXOmJG20wc</string>
+  <string name="New1mapkey">AIzaSyDJO7qgtu5EXiG-36_tPWxkQBnYqpaoaMg</string>
+  <string name="New1APIkey">AIzaSyDJO7qgtu5EXiG-36_tPWxkQBnYqpaoaMg</string>
+  <string name="New1PlacesAPIKey">AIzaSyD8MPTbJT4VLOiacbW8PZ4897LU6zi1NS4</string>
+  <string name="OLDmapkey">AIzaSyCPPoJNsRe1oObFOymJ5oRSewYuVWK5GGs</string> 
+  <string name="OLDAPIkey">AIzaSyCPPoJNsRe1oObFOymJ5oRSewYuVWK5GGs</string>
+  <string name="OLDPlacesAPIKey">AIzaSyD8MPTbJT4VLOiacbW8PZ4897LU6zi1NS4</string>
+
+
+<!-- Firebase configurations -->
+  <string name="ApplicationId">ultra-ride-7646e</string> 
+  <string name="DatabaseApiKey">AIzaSyBS7pIUcL5Kswcels6SMGxYdSxg9v6FS</string> 
+  <string name="DatabaseUrl">https://ultra-ride-7646e.firebaseio.com</string> 
+  <string name="StorageBucket">ultra-ride-7646e.appspot.com</string>  
 </resources>
