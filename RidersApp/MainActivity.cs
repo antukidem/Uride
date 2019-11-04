@@ -337,7 +337,10 @@ namespace RidersApp
         public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Permission[] grantResults)
         {
             base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
-
+            if (grantResults == null)
+            {
+                return;
+            }
             if (grantResults[0] == (int)Android.Content.PM.Permission.Granted)
             {
                 Toast.MakeText(this, "Permission was granted", ToastLength.Short).Show();
@@ -462,6 +465,8 @@ namespace RidersApp
                     }
                     if (rootAddress != null)
                     {
+                        if (rootAddress.results.Count == 0)
+                            return;
                         PickUpLocationText.Text = rootAddress.results[0].formatted_address;
 
                         placeBounds.pickUp = new SharedPartnerDataModels.LocationDetail(rootAddress.results[0].place_id, rootAddress.results[0].formatted_address, rootAddress.results[0].formatted_address,

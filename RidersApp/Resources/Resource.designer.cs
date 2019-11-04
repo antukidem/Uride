@@ -4753,20 +4753,20 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f0048
 			public const int FUNCTION = 2131689544;
 			
-			// aapt resource value: 0x7f0f0102
-			public const int FbButton = 2131689730;
+			// aapt resource value: 0x7f0f0103
+			public const int FbButton = 2131689731;
+			
+			// aapt resource value: 0x7f0f0106
+			public const int GmailButton = 2131689734;
 			
 			// aapt resource value: 0x7f0f0105
-			public const int GmailButton = 2131689733;
-			
-			// aapt resource value: 0x7f0f0104
-			public const int LinkedInButton = 2131689732;
+			public const int LinkedInButton = 2131689733;
 			
 			// aapt resource value: 0x7f0f0049
 			public const int META = 2131689545;
 			
-			// aapt resource value: 0x7f0f0107
-			public const int MicrosoftButton = 2131689735;
+			// aapt resource value: 0x7f0f0108
+			public const int MicrosoftButton = 2131689736;
 			
 			// aapt resource value: 0x7f0f004a
 			public const int SHIFT = 2131689546;
@@ -4774,8 +4774,8 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f004b
 			public const int SYM = 2131689547;
 			
-			// aapt resource value: 0x7f0f0103
-			public const int TwitterButton = 2131689731;
+			// aapt resource value: 0x7f0f0104
+			public const int TwitterButton = 2131689732;
 			
 			// aapt resource value: 0x7f0f00cf
 			public const int accountImage = 2131689679;
@@ -4783,8 +4783,8 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f00d0
 			public const int accountTitle = 2131689680;
 			
-			// aapt resource value: 0x7f0f00d4
-			public const int action0 = 2131689684;
+			// aapt resource value: 0x7f0f00d5
+			public const int action0 = 2131689685;
 			
 			// aapt resource value: 0x7f0f009b
 			public const int action_bar = 2131689627;
@@ -4807,17 +4807,17 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f0077
 			public const int action_bar_title = 2131689591;
 			
-			// aapt resource value: 0x7f0f00d1
-			public const int action_container = 2131689681;
+			// aapt resource value: 0x7f0f00d2
+			public const int action_container = 2131689682;
 			
 			// aapt resource value: 0x7f0f009c
 			public const int action_context_bar = 2131689628;
 			
-			// aapt resource value: 0x7f0f00d8
-			public const int action_divider = 2131689688;
+			// aapt resource value: 0x7f0f00d9
+			public const int action_divider = 2131689689;
 			
-			// aapt resource value: 0x7f0f00d2
-			public const int action_image = 2131689682;
+			// aapt resource value: 0x7f0f00d3
+			public const int action_image = 2131689683;
 			
 			// aapt resource value: 0x7f0f0003
 			public const int action_menu_divider = 2131689475;
@@ -4834,11 +4834,11 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f0079
 			public const int action_mode_close_button = 2131689593;
 			
-			// aapt resource value: 0x7f0f00d3
-			public const int action_text = 2131689683;
+			// aapt resource value: 0x7f0f00d4
+			public const int action_text = 2131689684;
 			
-			// aapt resource value: 0x7f0f00e1
-			public const int actions = 2131689697;
+			// aapt resource value: 0x7f0f00e2
+			public const int actions = 2131689698;
 			
 			// aapt resource value: 0x7f0f007a
 			public const int activity_chooser_view_content = 2131689594;
@@ -4897,8 +4897,8 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f0080
 			public const int buttonPanel = 2131689600;
 			
-			// aapt resource value: 0x7f0f00d5
-			public const int cancel_action = 2131689685;
+			// aapt resource value: 0x7f0f00d6
+			public const int cancel_action = 2131689686;
 			
 			// aapt resource value: 0x7f0f0059
 			public const int center = 2131689561;
@@ -4912,14 +4912,14 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f0094
 			public const int checkbox = 2131689620;
 			
-			// aapt resource value: 0x7f0f00dd
-			public const int chronometer = 2131689693;
+			// aapt resource value: 0x7f0f00de
+			public const int chronometer = 2131689694;
 			
 			// aapt resource value: 0x7f0f00ca
 			public const int circleImageView1 = 2131689674;
 			
-			// aapt resource value: 0x7f0f010c
-			public const int clickToLogin = 2131689740;
+			// aapt resource value: 0x7f0f010d
+			public const int clickToLogin = 2131689741;
 			
 			// aapt resource value: 0x7f0f00ce
 			public const int clickToRegisterText = 2131689678;
@@ -4996,8 +4996,8 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f0044
 			public const int end = 2131689540;
 			
-			// aapt resource value: 0x7f0f00e3
-			public const int end_padder = 2131689699;
+			// aapt resource value: 0x7f0f00e4
+			public const int end_padder = 2131689700;
 			
 			// aapt resource value: 0x7f0f0053
 			public const int enterAlways = 2131689555;
@@ -5029,8 +5029,8 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f0068
 			public const int @fixed = 2131689576;
 			
-			// aapt resource value: 0x7f0f0101
-			public const int flowPanel = 2131689729;
+			// aapt resource value: 0x7f0f0102
+			public const int flowPanel = 2131689730;
 			
 			// aapt resource value: 0x7f0f0073
 			public const int forever = 2131689587;
@@ -5038,8 +5038,8 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f00c3
 			public const int frameLocations = 2131689667;
 			
-			// aapt resource value: 0x7f0f0109
-			public const int fullNameText = 2131689737;
+			// aapt resource value: 0x7f0f010a
+			public const int fullNameText = 2131689738;
 			
 			// aapt resource value: 0x7f0f000a
 			public const int ghost_view = 2131689482;
@@ -5062,8 +5062,8 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f007f
 			public const int icon = 2131689599;
 			
-			// aapt resource value: 0x7f0f00e2
-			public const int icon_group = 2131689698;
+			// aapt resource value: 0x7f0f00e3
+			public const int icon_group = 2131689699;
 			
 			// aapt resource value: 0x7f0f002d
 			public const int icon_only = 2131689517;
@@ -5074,8 +5074,8 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f007c
 			public const int image = 2131689596;
 			
-			// aapt resource value: 0x7f0f00de
-			public const int info = 2131689694;
+			// aapt resource value: 0x7f0f00df
+			public const int info = 2131689695;
 			
 			// aapt resource value: 0x7f0f0074
 			public const int italic = 2131689588;
@@ -5113,8 +5113,8 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f007e
 			public const int list_item = 2131689598;
 			
-			// aapt resource value: 0x7f0f00fe
-			public const int loader = 2131689726;
+			// aapt resource value: 0x7f0f00ff
+			public const int loader = 2131689727;
 			
 			// aapt resource value: 0x7f0f00cd
 			public const int loginButton = 2131689677;
@@ -5128,11 +5128,11 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f00c1
 			public const int map = 2131689665;
 			
-			// aapt resource value: 0x7f0f010e
-			public const int masked = 2131689742;
+			// aapt resource value: 0x7f0f010f
+			public const int masked = 2131689743;
 			
-			// aapt resource value: 0x7f0f00d7
-			public const int media_actions = 2131689687;
+			// aapt resource value: 0x7f0f00d8
+			public const int media_actions = 2131689688;
 			
 			// aapt resource value: 0x7f0f00aa
 			public const int message = 2131689642;
@@ -5152,26 +5152,29 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f003c
 			public const int multiply = 2131689532;
 			
+			// aapt resource value: 0x7f0f0115
+			public const int navAbout = 2131689749;
+			
 			// aapt resource value: 0x7f0f0114
-			public const int navAbout = 2131689748;
-			
-			// aapt resource value: 0x7f0f0113
-			public const int navHelp = 2131689747;
-			
-			// aapt resource value: 0x7f0f0111
-			public const int navHistory = 2131689745;
-			
-			// aapt resource value: 0x7f0f0110
-			public const int navPayments = 2131689744;
-			
-			// aapt resource value: 0x7f0f010f
-			public const int navProfile = 2131689743;
+			public const int navHelp = 2131689748;
 			
 			// aapt resource value: 0x7f0f0112
-			public const int navPromo = 2131689746;
+			public const int navHistory = 2131689746;
+			
+			// aapt resource value: 0x7f0f0111
+			public const int navPayments = 2131689745;
+			
+			// aapt resource value: 0x7f0f0110
+			public const int navProfile = 2131689744;
+			
+			// aapt resource value: 0x7f0f0113
+			public const int navPromo = 2131689747;
 			
 			// aapt resource value: 0x7f0f00ac
 			public const int navView = 2131689644;
+			
+			// aapt resource value: 0x7f0f00d1
+			public const int navigationView1 = 2131689681;
 			
 			// aapt resource value: 0x7f0f00ba
 			public const int navigation_header_container = 2131689658;
@@ -5185,14 +5188,14 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f0028
 			public const int normal = 2131689512;
 			
-			// aapt resource value: 0x7f0f00e0
-			public const int notification_background = 2131689696;
+			// aapt resource value: 0x7f0f00e1
+			public const int notification_background = 2131689697;
+			
+			// aapt resource value: 0x7f0f00db
+			public const int notification_main_column = 2131689691;
 			
 			// aapt resource value: 0x7f0f00da
-			public const int notification_main_column = 2131689690;
-			
-			// aapt resource value: 0x7f0f00d9
-			public const int notification_main_column_container = 2131689689;
+			public const int notification_main_column_container = 2131689690;
 			
 			// aapt resource value: 0x7f0f006c
 			public const int outline = 2131689580;
@@ -5209,8 +5212,8 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f00cc
 			public const int passwordText = 2131689676;
 			
-			// aapt resource value: 0x7f0f010a
-			public const int phoneText = 2131689738;
+			// aapt resource value: 0x7f0f010b
+			public const int phoneText = 2131689739;
 			
 			// aapt resource value: 0x7f0f00c5
 			public const int pickUpLocationText = 2131689669;
@@ -5221,83 +5224,83 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f0064
 			public const int pin = 2131689572;
 			
-			// aapt resource value: 0x7f0f00e6
-			public const int place_autocomplete_clear_button = 2131689702;
-			
-			// aapt resource value: 0x7f0f00e8
-			public const int place_autocomplete_powered_by_google = 2131689704;
-			
-			// aapt resource value: 0x7f0f00ea
-			public const int place_autocomplete_prediction_primary_text = 2131689706;
-			
-			// aapt resource value: 0x7f0f00eb
-			public const int place_autocomplete_prediction_secondary_text = 2131689707;
+			// aapt resource value: 0x7f0f00e7
+			public const int place_autocomplete_clear_button = 2131689703;
 			
 			// aapt resource value: 0x7f0f00e9
-			public const int place_autocomplete_progress = 2131689705;
+			public const int place_autocomplete_powered_by_google = 2131689705;
 			
-			// aapt resource value: 0x7f0f00e4
-			public const int place_autocomplete_search_button = 2131689700;
-			
-			// aapt resource value: 0x7f0f00e5
-			public const int place_autocomplete_search_input = 2131689701;
-			
-			// aapt resource value: 0x7f0f00e7
-			public const int place_autocomplete_separator = 2131689703;
-			
-			// aapt resource value: 0x7f0f00f7
-			public const int places_autocomplete_action_bar = 2131689719;
-			
-			// aapt resource value: 0x7f0f00fc
-			public const int places_autocomplete_back_button = 2131689724;
-			
-			// aapt resource value: 0x7f0f00f1
-			public const int places_autocomplete_clear_button = 2131689713;
-			
-			// aapt resource value: 0x7f0f00fd
-			public const int places_autocomplete_edit_text = 2131689725;
-			
-			// aapt resource value: 0x7f0f00f9
-			public const int places_autocomplete_error = 2131689721;
+			// aapt resource value: 0x7f0f00eb
+			public const int place_autocomplete_prediction_primary_text = 2131689707;
 			
 			// aapt resource value: 0x7f0f00ec
-			public const int places_autocomplete_error_message = 2131689708;
+			public const int place_autocomplete_prediction_secondary_text = 2131689708;
 			
-			// aapt resource value: 0x7f0f00ee
-			public const int places_autocomplete_error_progress = 2131689710;
+			// aapt resource value: 0x7f0f00ea
+			public const int place_autocomplete_progress = 2131689706;
+			
+			// aapt resource value: 0x7f0f00e5
+			public const int place_autocomplete_search_button = 2131689701;
+			
+			// aapt resource value: 0x7f0f00e6
+			public const int place_autocomplete_search_input = 2131689702;
+			
+			// aapt resource value: 0x7f0f00e8
+			public const int place_autocomplete_separator = 2131689704;
 			
 			// aapt resource value: 0x7f0f00f8
-			public const int places_autocomplete_list = 2131689720;
+			public const int places_autocomplete_action_bar = 2131689720;
 			
-			// aapt resource value: 0x7f0f00fb
-			public const int places_autocomplete_overlay_content = 2131689723;
-			
-			// aapt resource value: 0x7f0f00fa
-			public const int places_autocomplete_overlay_root = 2131689722;
-			
-			// aapt resource value: 0x7f0f00f4
-			public const int places_autocomplete_powered_by_google = 2131689716;
-			
-			// aapt resource value: 0x7f0f00f5
-			public const int places_autocomplete_prediction_primary_text = 2131689717;
-			
-			// aapt resource value: 0x7f0f00f6
-			public const int places_autocomplete_prediction_secondary_text = 2131689718;
-			
-			// aapt resource value: 0x7f0f00f3
-			public const int places_autocomplete_progress = 2131689715;
-			
-			// aapt resource value: 0x7f0f00ef
-			public const int places_autocomplete_search_button = 2131689711;
-			
-			// aapt resource value: 0x7f0f00f0
-			public const int places_autocomplete_search_input = 2131689712;
+			// aapt resource value: 0x7f0f00fd
+			public const int places_autocomplete_back_button = 2131689725;
 			
 			// aapt resource value: 0x7f0f00f2
-			public const int places_autocomplete_separator = 2131689714;
+			public const int places_autocomplete_clear_button = 2131689714;
+			
+			// aapt resource value: 0x7f0f00fe
+			public const int places_autocomplete_edit_text = 2131689726;
+			
+			// aapt resource value: 0x7f0f00fa
+			public const int places_autocomplete_error = 2131689722;
 			
 			// aapt resource value: 0x7f0f00ed
-			public const int places_autocomplete_try_again = 2131689709;
+			public const int places_autocomplete_error_message = 2131689709;
+			
+			// aapt resource value: 0x7f0f00ef
+			public const int places_autocomplete_error_progress = 2131689711;
+			
+			// aapt resource value: 0x7f0f00f9
+			public const int places_autocomplete_list = 2131689721;
+			
+			// aapt resource value: 0x7f0f00fc
+			public const int places_autocomplete_overlay_content = 2131689724;
+			
+			// aapt resource value: 0x7f0f00fb
+			public const int places_autocomplete_overlay_root = 2131689723;
+			
+			// aapt resource value: 0x7f0f00f5
+			public const int places_autocomplete_powered_by_google = 2131689717;
+			
+			// aapt resource value: 0x7f0f00f6
+			public const int places_autocomplete_prediction_primary_text = 2131689718;
+			
+			// aapt resource value: 0x7f0f00f7
+			public const int places_autocomplete_prediction_secondary_text = 2131689719;
+			
+			// aapt resource value: 0x7f0f00f4
+			public const int places_autocomplete_progress = 2131689716;
+			
+			// aapt resource value: 0x7f0f00f0
+			public const int places_autocomplete_search_button = 2131689712;
+			
+			// aapt resource value: 0x7f0f00f1
+			public const int places_autocomplete_search_input = 2131689713;
+			
+			// aapt resource value: 0x7f0f00f3
+			public const int places_autocomplete_separator = 2131689715;
+			
+			// aapt resource value: 0x7f0f00ee
+			public const int places_autocomplete_try_again = 2131689710;
 			
 			// aapt resource value: 0x7f0f0006
 			public const int progress_circular = 2131689478;
@@ -5305,23 +5308,23 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f0007
 			public const int progress_horizontal = 2131689479;
 			
-			// aapt resource value: 0x7f0f00ff
-			public const int progress_status = 2131689727;
+			// aapt resource value: 0x7f0f0100
+			public const int progress_status = 2131689728;
 			
 			// aapt resource value: 0x7f0f0095
 			public const int radio = 2131689621;
 			
-			// aapt resource value: 0x7f0f010b
-			public const int registerButton = 2131689739;
+			// aapt resource value: 0x7f0f010c
+			public const int registerButton = 2131689740;
 			
 			// aapt resource value: 0x7f0f0061
 			public const int right = 2131689569;
 			
-			// aapt resource value: 0x7f0f00df
-			public const int right_icon = 2131689695;
+			// aapt resource value: 0x7f0f00e0
+			public const int right_icon = 2131689696;
 			
-			// aapt resource value: 0x7f0f00db
-			public const int right_side = 2131689691;
+			// aapt resource value: 0x7f0f00dc
+			public const int right_side = 2131689692;
 			
 			// aapt resource value: 0x7f0f00c0
 			public const int rootView = 2131689664;
@@ -5407,11 +5410,11 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f0039
 			public const int showTitle = 2131689529;
 			
-			// aapt resource value: 0x7f0f0108
-			public const int signupForm = 2131689736;
+			// aapt resource value: 0x7f0f0109
+			public const int signupForm = 2131689737;
 			
-			// aapt resource value: 0x7f0f0100
-			public const int signupTextPanel = 2131689728;
+			// aapt resource value: 0x7f0f0101
+			public const int signupTextPanel = 2131689729;
 			
 			// aapt resource value: 0x7f0f00b4
 			public const int smallLabel = 2131689652;
@@ -5449,8 +5452,8 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f0062
 			public const int start = 2131689570;
 			
-			// aapt resource value: 0x7f0f00d6
-			public const int status_bar_latest_event_content = 2131689686;
+			// aapt resource value: 0x7f0f00d7
+			public const int status_bar_latest_event_content = 2131689687;
 			
 			// aapt resource value: 0x7f0f0067
 			public const int stretch = 2131689575;
@@ -5503,8 +5506,8 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f001a
 			public const int textinput_helper_text = 2131689498;
 			
-			// aapt resource value: 0x7f0f00dc
-			public const int time = 2131689692;
+			// aapt resource value: 0x7f0f00dd
+			public const int time = 2131689693;
 			
 			// aapt resource value: 0x7f0f0023
 			public const int title = 2131689507;
@@ -5554,8 +5557,8 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f001b
 			public const int view_offset_helper = 2131689499;
 			
-			// aapt resource value: 0x7f0f010d
-			public const int visible = 2131689741;
+			// aapt resource value: 0x7f0f010e
+			public const int visible = 2131689742;
 			
 			// aapt resource value: 0x7f0f00ae
 			public const int webview = 2131689646;
@@ -5572,8 +5575,8 @@ namespace RidersApp
 			// aapt resource value: 0x7f0f0042
 			public const int wrap_content = 2131689538;
 			
-			// aapt resource value: 0x7f0f0106
-			public const int yahooButton = 2131689734;
+			// aapt resource value: 0x7f0f0107
+			public const int yahooButton = 2131689735;
 			
 			static Id()
 			{

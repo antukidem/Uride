@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
 using Android.App;
 using Android.Content;
 using Android.OS;
@@ -85,11 +84,12 @@ namespace RidersApp.Activities
         }
         private void TaskCompletionListener_Failure(object sender, EventArgs e)
         {
-            CloseProgressDialogue(); 
-            Snackbar.Make(rootView, "User Registration failed", Snackbar.LengthShort).Show();
+            CloseProgressDialogue();
+            StartActivity(typeof(MainActivity));
+            //Snackbar.Make(rootView, "User Registration failed", Snackbar.LengthShort).Show();
 
-            Logger.Log(e.ToString(), "LOGIN FAILED");  
-         }
+            //Logger.Log(e.ToString(), "LOGIN FAILED");
+        }
 
         private void ClickToRegisterText_Click(object sender, EventArgs e)
         {
